@@ -1,4 +1,4 @@
 # Mahakal
 This is my first Git Repository.
 <br>
-Author - Vishesh Dubey.
+Author - Vishesh Dubey(VD).
