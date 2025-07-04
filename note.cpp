@@ -7,6 +7,7 @@ int main() {
     cout<< "Ramayan";
     cout<< "Gita";
     cout<< "Mahabharat";
+    cout<< "Sita Ram";
     getchar();
     return 0;
 }
